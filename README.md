@@ -55,4 +55,4 @@ docker ps -a
 
 - In cause if you have face any issue, please refer the [ERROR.md](./ERROR.md) for your reference.
 
-Thanks for using [Geppetto Builder](https://stage.app.geppettosoftware.com).
+Thanks for using [Geppetto Builder](https://geppettosoftware.com).
