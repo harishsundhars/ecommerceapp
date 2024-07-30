@@ -1,0 +1,7 @@
+{
+  "name": "ecomreact",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
