@@ -1,5 +1,4 @@
 # Run Generated application in local
-![Geppetto logo](https://readmegeppetto.s3.amazonaws.com/banner_home.svg)
 ## Prerequisites:
 - [Docker -v 18.09.7](https://docs.docker.com/engine/install/)
 - [Docker-compose -v 1.27.3](https://docs.docker.com/compose/install/)
